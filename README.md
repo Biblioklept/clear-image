@@ -1,6 +1,6 @@
 # Clear Image
 
-A PAYDAY 2 mod merge that cleans up screen textures/effects.
+A PAYDAY 2 mod merge that cleans up screen textures/effects and animations.
 
 ## Mods Included
 - [Bloody Screen Effect Removal](https://modworkshop.net/mod/32280)
